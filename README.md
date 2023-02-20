@@ -1,4 +1,4 @@
-# equipment-and-attachments
+# Equipment-and-Attachments
 BDI Equipments integrates with construction equipment research and development, production, and sales. After thousand times of experiments and tests, with rich design knowledge and experience, superb technology, high standard of quality assurance, our construction equipment is reliable, has good work performance, and receives high customer satisfaction feedback.
 
  
